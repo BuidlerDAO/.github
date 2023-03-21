@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BuidlerDao</h1>
+<h1 align="center">Hi 👋, I'm BuidlerDAO</h1>
 <h3 align="center">💡 What is Buidler DAO? Buidler DAO: Building Global Web3 Talents and Projects Network</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buidlerdao&label=Profile%20views&color=0e75b6&style=flat" alt="buidlerdao" /> </p>
